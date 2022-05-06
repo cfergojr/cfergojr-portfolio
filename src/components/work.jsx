@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Work extends Component {
     render() {
       return (
-        <section className="section projects is-medium is-white has-text-centered">
+        <section className="section projects is-medium is-light has-text-centered">
           <div className="container is-narrow">
             <h1 className="title is-spaced is-size-3-desktop is-size-4-mobile">My Recent Work</h1>
             <h2 className="subtitle is-size-5-desktop">Here are a few of my recent design and development projects.</h2>

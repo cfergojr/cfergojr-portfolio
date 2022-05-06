@@ -50,14 +50,6 @@ export default class Projects extends Component {
                   </div>
                 </div>
               </div>
-              <div className="callout">
-                <div className="columns is-centered">
-                  <div className="column">
-                    <h1 className="title is-spaced">Interested in collaborating or investing?</h1>
-                    <h2 className="subtitle is-size-5-desktop">I’m always open to discussing product design work or partnership opportunities.</h2><a className="button is-primary is-outlined is-rounded is-medium" href="mailto:cfergojr@gmail.com">Start a conversation</a>
-                  </div>
-                </div>
-              </div>
             </div>
           </section>
         </div>
