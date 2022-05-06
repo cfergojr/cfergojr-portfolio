@@ -12,7 +12,7 @@ export default class Navigation extends Component {
             </div>
             <div className="navbar-menu" id="navMenu">
               <div className="navbar-start" />
-              {/* <div className="navbar-item">
+              <div className="navbar-item">
                 <div className="dropdown is-hoverable">
                   <div className="dropdown-trigger">
                     <button className="button" aria-haspopup="true" aria-controls="dropdown-menu">
@@ -33,7 +33,7 @@ export default class Navigation extends Component {
                     </div>
                   </div>
                 </div>
-              </div> */}
+              </div>
               <div className="navbar-item"><a className="button is-primary is-outlined is-rounded" target="_blank" href="/files/chris-fergo-resume.pdf">Download CV</a></div>
             </div>
           </div>

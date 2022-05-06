@@ -25,12 +25,12 @@ export default class Projects extends Component {
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">
                     <div className="box"><img className="logo" src="img/projects/typing-test.png" />
-                      <p>Who doesn't love a good typing test? This was built using vanilla JavaScript, along with some CSS and HTML.</p><a className="button is-primary is-outlined is-rounded" href="https://github.com/cfergojr/js-typing-test">View Repo</a>
+                      <p>Who doesn't love a good typing test? This was built using vanilla JavaScript, along with some CSS and HTML.</p><a className="button is-primary is-outlined is-rounded mr-3" href="/typing-test.html">Play Game</a><a className="button is-primary is-outlined is-rounded" href="https://github.com/cfergojr/js-typing-test">View Repo</a>
                     </div>
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">
                     <div className="box"><h2>WORDLE</h2>
-                      <p>Love the trendy new game? Check out my version that uses vanilla JavaScript, along with some CSS and HTML.</p><a className="button is-primary is-outlined is-rounded" href="https://github.com/cfergojr/wordle-app" target="_blank">View Repo</a>
+                      <p>Love the trendy new game? Check out my version that uses vanilla JavaScript, along with some CSS and HTML.</p><a className="button is-primary is-outlined is-rounded mr-3" href="/wordle.html" target="_blank">Play Game</a><a className="button is-primary is-outlined is-rounded" href="https://github.com/cfergojr/wordle-app" target="_blank">View Repo</a>
                     </div>
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">
