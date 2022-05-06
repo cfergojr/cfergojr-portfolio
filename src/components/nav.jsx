@@ -6,7 +6,7 @@ export default class Navigation extends Component {
   
         <nav className="navbar is-light" role="navigation" aria-label="main navigation">
           <div className="container">
-            <div className="navbar-brand"><a className="navbar-item" href="#"><img src="img/cf-logo.png" alt="Chris Fergo | Designer, Front-end Developer & mentee" height={48} /></a>
+            <div className="navbar-brand"><a className="navbar-item" href="#"><img src="img/cf-logo.png" alt="Chris Fergo | Full-Stack Developer, Designer, &amp; Learner" height={48} /></a>
             {/* <a className="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="#navMenu"><span aria-hidden="true" />
             <span aria-hidden="true" /><span aria-hidden="true" /></a> */}
             </div>

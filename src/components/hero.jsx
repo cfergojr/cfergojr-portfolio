@@ -9,8 +9,8 @@ export default class Hero extends Component {
             <div className="container">
               <div className="columns is-centered">
                 <div className="column">
-                  <h1 className="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile">Designer, Front-end Developer &amp; Mentee</h1>
-                  <h2 className="subtitle is-size-4-desktop">I design and code beautifully simple things, and I love what I do.</h2><img className="avatar" alt="Chris Fergo Jr" src="img/chris-fergo-jr.jpg" />
+                  <h1 className="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile">Full-Stack Developer, Designer, &amp; Learner</h1>
+                  <h2 className="subtitle is-size-4-desktop">I design and code beautifully simple things, and I love what I do.</h2>
                 </div>
               </div>
             </div>

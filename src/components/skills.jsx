@@ -28,25 +28,25 @@ export default class Skills extends Component{
                     </ul>
                   </div>
                   <div className="column">
-                    <figure className="image"><img className="is-skill-icon" alt="frontend skill icon" src="img/icons/frontend.svg" /></figure>
-                    <h1 className="title is-size-4 is-spaced">Front-end Developer</h1>
+                    <figure className="image"><img className="is-skill-icon" alt="developer skill icon" src="img/icons/developer.svg" /></figure>
+                    <h1 className="title is-size-4 is-spaced">Full-Stack Developer</h1>
                     <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
                     <p className="list-title has-text-primary has-text-weight-normal">Languages I speak:</p>
-                    <p>HTML, CSS, Sass, Less, JS, ReactJS, Python</p>
+                    <p>HTML5, CSS3 (SASS/LESS), JavaScript (ReactJS, jQuery, Node.js, JSON), C#, Python</p>
                     <p className="list-title has-text-primary has-text-weight-normal">Dev Tools:</p>
                     <ul>
                       <li>Azure DevOps</li>
-                      <li>Episerver</li>
+                      <li>Visual Studio Code</li>
                       <li>Bootstrap</li>
-                      <li>Visual Studio</li>
-                      <li>Codepen</li>
                       <li>Github</li>
+                      <li>Bulma</li>
+                      <li>Gulp</li>
                       <li>Terminal</li>
                     </ul>
                   </div>
                   <div className="column"> 
-                    <figure className="image"><img className="is-skill-icon" alt="mentee skill icon" src="img/icons/mentee.svg" /></figure>
-                    <h1 className="title is-size-4 is-spaced">Mentee</h1>
+                    <figure className="image"><img className="is-skill-icon" alt="learner skill icon" src="img/icons/learner.svg" /></figure>
+                    <h1 className="title is-size-4 is-spaced">Learner</h1>
                     <p>I genuinely love learning and continue to grow from fellow designers and developers.</p>
                     <p className="list-title has-text-primary has-text-weight-normal">Experiences I draw from:</p>
                     <p>UX/UI, Product design, Freelancing</p>

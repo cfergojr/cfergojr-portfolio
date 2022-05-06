@@ -4,7 +4,7 @@ export default class Footer extends Component {
     render() {
       return (
         <footer className="section is-primary is-small has-text-centered">
-          <div className="container is-narrow"><img className="logo" src="img/cf-logo-white.png" alt="Chris Fergo | Designer, Front-end Developer and mentee" style={{height: '48px'}} />
+          <div className="container is-narrow"><img className="logo" src="img/cf-logo-white.png" alt="Chris Fergo | Full-Stack Developer, Designer, and Learner" style={{height: '48px'}} />
             <div className="columns is-centered"> 
               <div className="column is-one-third">
                 <h1 className="title is-size-4-touch">Living, learning, &amp; leveling up one day at a time.</h1>
