@@ -24,7 +24,7 @@ export default class Projects extends Component {
                     </div>
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">
-                    <div className="box"><img className="logo" alt="keyboard" src="img/projects/typing-test.png" />
+                    <div className="box"><img className="logo" alt="keyboard" src="img/projects/typing-test.webp" />
                       <p>Who doesn't love a good typing test? This was built using vanilla JavaScript, along with some CSS and HTML.</p><a className="button is-primary is-outlined is-rounded mr-3" href="/typing-test.html">Play Game</a><a className="button is-primary is-outlined is-rounded" href="https://github.com/cfergojr/js-typing-test">View Repo</a>
                     </div>
                   </div>
@@ -34,12 +34,12 @@ export default class Projects extends Component {
                     </div>
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">
-                    <div className="box"><img className="logo" alt="drums" style={{height: '75px'}} src="img/projects/drumming.png" />
+                    <div className="box"><img className="logo" alt="drums" style={{height: '75px'}} src="img/projects/drumming.webp" />
                       <p>Find me behind my drum kit, performing various covers of popular songs.</p><a className="button is-primary is-outlined is-rounded" href="https://www.youtube.com/playlist?list=PLYm5qfbqopB22Oq6ars8Qp5-ZgVE8lTFi" target="_blank" rel="noreferrer">Youtube Playlist</a>
                     </div>
                   </div>
                   <div className="column is-12-mobile is-half-tablet is-one-third-desktop level-item">     
-                    <div className="box"><img className="logo" alt="Retropie logo" src="img/projects/retropie.png" />
+                    <div className="box"><img className="logo" alt="Retropie logo" src="img/projects/retropie.webp" />
                       <p>Built a fully working arcade cabinet using the Raspberry Pi 4b, Retropie OS, &amp; custom hardware.</p><a className="button is-primary is-outlined is-rounded" href="https://photos.google.com/album/AF1QipNVSIViPfVrvOsL1tX2nfjuhowpl9Q_rzbgcZwN">Retropie Arcade Gallery</a>
                     </div>
                   </div>

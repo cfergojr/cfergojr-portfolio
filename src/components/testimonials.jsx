@@ -17,14 +17,14 @@ export default class Testimonials extends Component {
                   <div className="carousel-slides">
                     <div className="carousel-inner">
                       <div className="carousel-item">
-                        <div className="testimonial-block"><img className="avatar" alt="PJ Moffett" src="img/avatars/pj-moffett.jpg" />
+                        <div className="testimonial-block"><img className="avatar" alt="PJ Moffett" src="img/avatars/pj-moffett.webp" />
                           <p className="quote">“Chris is a very talented Graphic Designer. He helped me on numerous presentation projects while we worked together at PCD.”</p>
                           <h1 className="title is-size-5">PJ Moffett</h1>
                           <h2 className="subtitle is-size-6">Logistics/Supply Chain/E-Fulfillment</h2>
                         </div>
                       </div>
                       <div className="carousel-item">
-                        <div className="testimonial-block"><img className="avatar" alt="Rachel Bianco" src="img/avatars/rachel-bianco.jpg" />
+                        <div className="testimonial-block"><img className="avatar" alt="Rachel Bianco" src="img/avatars/rachel-bianco.webp" />
                           <p className="quote">“Chris was an absolute pleasure to work with at PCD! He brought many skills to the Marketing &amp; Creative Design teams.”</p>
                           <h1 className="title is-size-5">Rachel Giannini-Bianco</h1>
                           <h2 className="subtitle is-size-6">Virtual Exectutive Assistant</h2>

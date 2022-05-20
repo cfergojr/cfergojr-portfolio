@@ -14,28 +14,28 @@ export default class Clients extends Component {
             <div className="client-grid">
               <div className="columns is-multiline is-mobile">
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="BethpageFCU logo" src="img/logos/bethpagefcu.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="BethpageFCU logo" src="img/logos/bethpagefcu.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="Charity:Water logo" src="img/logos/charity-water.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="Charity:Water logo" src="img/logos/charity-water.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="CSHL logo" src="img/logos/cshl.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="CSHL logo" src="img/logos/cshl.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="HFT Connect logo" src="img/logos/hftc.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="HFT Connect logo" src="img/logos/hftc.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="Personal Communications Devices logo" src="img/logos/pcd.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="Personal Communications Devices logo" src="img/logos/pcd.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="Saberin logo" src="img/logos/saberin.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="Saberin logo" src="img/logos/saberin.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="Verisk logo" src="img/logos/verisk.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="Verisk logo" src="img/logos/verisk.webp" /></figure>
                 </div>
                 <div className="column is-half-mobile is-one-quarter-tablet">
-                  <figure className="image is-2x1"><img className="client-logo" alt="Verizon logo" src="img/logos/verizon.png" /></figure>
+                  <figure className="image is-2x1"><img className="client-logo" alt="Verizon logo" src="img/logos/verizon.webp" /></figure>
                 </div>
               </div>
             </div>
