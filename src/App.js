@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Banner from './components/banner'
+//import Banner from './components/banner'
 import Navigation from './components/nav'
 import Hero from './components/hero'
 import Introduction from './components/introduction'
@@ -16,7 +16,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Banner></Banner>
         <Navigation></Navigation>
         <Hero></Hero>
         <Introduction></Introduction>
