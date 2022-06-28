@@ -17,10 +17,17 @@ export default class Testimonials extends Component {
                   <div className="carousel-slides">
                     <div className="carousel-inner">
                       <div className="carousel-item">
+                        <div className="testimonial-block"><img className="avatar" alt="Kenneth Stephens" src="img/avatars/kenneth-stephens.webp" />
+                          <p className="quote">“Chris is very motivated to learn new technologies and always strives to bring a fresh perspective to the workplace.”</p>
+                          <h1 className="title is-size-5">Kenneth Stephens</h1>
+                          <h2 className="subtitle is-size-6">Web Developer</h2>
+                        </div>
+                      </div>
+                      <div className="carousel-item">
                         <div className="testimonial-block"><img className="avatar" alt="PJ Moffett" src="img/avatars/pj-moffett.webp" />
                           <p className="quote">“Chris is a very talented Graphic Designer. He helped me on numerous presentation projects while we worked together at PCD.”</p>
                           <h1 className="title is-size-5">PJ Moffett</h1>
-                          <h2 className="subtitle is-size-6">Logistics/Supply Chain/E-Fulfillment</h2>
+                          <h2 className="subtitle is-size-6">Global Logistics & Supply Chain</h2>
                         </div>
                       </div>
                       <div className="carousel-item">
@@ -35,6 +42,8 @@ export default class Testimonials extends Component {
                   <div className="carousel-nav">
                     <label htmlFor="carousel-1" />
                     <label htmlFor="carousel-2" />
+                    <label htmlFor="carousel-3" />
+
                   </div>
                 </div>
               </div>
